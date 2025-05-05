@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>연구원 모집 공고</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      padding: 20px;
+      background: #fff3cd;
+      border: 2px solid #ffeeba;
+      border-radius: 10px;
+      max-width: 400px;
+      margin: auto;
+    }
+  </style>
+</head>
+<body>
+  <h2>📢 연구원 모집 공고</h2>
+  <p>○ 모집 분야: 인공지능 연구</p>
+  <p>○ 지원 자격: 석사 이상</p>
+  <p>○ 지원 기간: 2025년 5월 31일까지</p>
+  <p><a href="mailto:recruit@example.com">지원하기 (이메일)</a></p>
+</body>
+</html>
